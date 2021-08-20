@@ -1,6 +1,6 @@
 # signup_page
 
-A new Flutter application.
+A basic app which is built in flutter.
 
 ## Getting Started
 
